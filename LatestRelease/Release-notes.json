@@ -71,7 +71,7 @@
   },
   {
     "ver": "3.1.0",
-    "date": "16.03.2016",
-    "desc": "<p><strong>New features:</strong></p>\n\n<ul>\n\t<li><strong>​</strong>[Customer info] Add feature to highlight more customer info [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/72\">#72</a>]</li>\n\t<li>[Ticket info] Support priority highlight [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/80\">#80</a>]</li>\n</ul>\n</br>\n<p><strong>Enhancements:</strong></p>\n\n<ul>\n\t<li>The &quot;Assign to me&quot; button validation [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/74\">#74</a>]</li>\n</ul>\n</br>\n<p><strong>Miscellaneous:</strong></p>\n\n<ul>\n\t<li>Remove any reference to CMS Inbox [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/76\">#76</a>]</li>\n</ul>"
+    "date": "18.03.2016",
+    "desc": "<p><strong>New features:</strong></p>\n\n<ul>\n\t<li><strong>​</strong>[Customer info] Add feature to highlight more customer info [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/72\">#72</a>]</li>\n</ul>\n\n<p style=\"margin-left: 40px;\"><em>New Settings:</em></p>\n\n<ol>\n\t<li style=\"margin-left: 40px;\">Show Customer`s support plan.</li>\n\t<li style=\"margin-left: 40px;\">Highlight the Licensee field if it has notes.</li>\n</ol>\n\n<p style=\"margin-left: 40px;\">&nbsp;</p>\n\n<ul>\n\t<li>[Ticket info] Support priority highlight [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/80\">#80</a>]</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>Enhancements:</strong></p>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>The &quot;Assign to me&quot; button validation [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/74\">#74</a>]</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>Miscellaneous:</strong></p>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>Remove any reference to CMS Inbox [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/76\">#76</a>]</li>\n</ul>\n"
   }
 ]
