@@ -99,9 +99,14 @@
     "date": "18.11.2016",
     "desc": "<p id=\"aui-3-5-1-4_55779\" style=\"margin: 2px 0px; padding: 0px; color: rgb(68, 68, 68); font-family: Arial; line-height: 16.003px;\"><strong id=\"aui-3-5-1-4_55867\">New features:</strong></p>\n\n<ul id=\"aui-3-5-1-4_55782\" style=\"margin: 0px; padding-right: 30px; padding-left: 30px; list-style-position: initial; list-style-image: initial; color: rgb(68, 68, 68); font-family: Arial; line-height: 16.003px;\">\n\t<li id=\"aui-3-5-1-4_55781\" style=\"margin: 0px 0px 2px; padding: 0px;\">[Ticket info]&nbsp;<span class=\"js-issue-title\" id=\"aui-3-5-1-4_40506\" style=\"box-sizing: border-box;\">Highlighting 0</span>ut of the mainstream support phase &nbsp;Sitecore versions [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/97\">#97</a>]</li>\n\t<li id=\"aui-3-5-1-4_55784\" style=\"margin: 0px 0px 2px; padding: 0px;\">[<span id=\"aui-3-5-1-4_41963\" style=\"line-height: 16.003px;\">Out of the Scope</span>] Out Of Scope Template button [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/96\">#96</a>]</li>\n</ul>\n"
   },
-   {
+  {
     "ver": "3.5.1",
     "date": "03.02.2017",
     "desc": "<p id=\"aui-3-5-1-4_103965\" style=\"margin: 2px 0px; padding: 0px; color: rgb(68, 68, 68); font-family: Arial;\"><strong id=\"aui-3-5-1-4_103985\">Minor changes and bug fixing:</strong></p>\n\n<ul id=\"aui-3-5-1-4_103961\" style=\"margin: 0px; padding-right: 30px; padding-left: 30px; list-style-position: initial; list-style-image: initial; color: rgb(68, 68, 68); font-family: Arial;\">\n\t<li id=\"aui-3-5-1-4_103960\" style=\"margin: 0px 0px 2px; padding: 0px;\">[Product Version] Add the date checking to keep support phases up to date for each version of Sitecore. &nbsp;</li>\n\t<li style=\"margin: 0px 0px 2px; padding: 0px;\">[Out of Scope]&nbsp;</li>\n</ul>\n\n<ol>\n\t<li style=\"margin: 0px 0px 2px 40px; padding: 0px;\">Remove the possibility to change set of emails for Customer Contacts and Escalation Email groups for users.</li>\n\t<li style=\"margin: 0px 0px 2px 40px; padding: 0px;\">Instead of opening two separate browser tabs with account owners, use the special Dashboard service. The service is currently being implemented.</li>\n</ol>\n"
+  },
+  {
+    "ver": "3.6.0",
+    "date": "03.02.2017",
+    "desc": "<p id=\"aui-3-5-1-4_55779\" style=\"margin: 2px 0px; padding: 0px; color: rgb(68, 68, 68); font-family: Arial; line-height: 16.003px;\"><strong id=\"aui-3-5-1-4_55867\">New features:</strong></p>\n\n<ul id=\"aui-3-5-1-4_55782\" style=\"margin: 0px; padding-right: 30px; padding-left: 30px; list-style-position: initial; list-style-image: initial; color: rgb(68, 68, 68); font-family: Arial; line-height: 16.003px;\">\n\t<li id=\"aui-3-5-1-4_55781\" style=\"margin: 0px 0px 2px; padding: 0px;\">[Links]&nbsp;<span class=\"js-issue-title\" style=\"box-sizing: border-box;\">Open ticket in the dashboard view</span> [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/97\" style=\"text-decoration: initial; color: darkblue;\">#9</a><a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/99\">9</a>]</li>\n</ul>\n"
   }
 ]
