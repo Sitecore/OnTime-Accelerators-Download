@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "ver": "1.0",
     "date": "14.01.15",
@@ -108,5 +108,10 @@
     "ver": "3.6.0",
     "date": "03.02.2017",
     "desc": "<p id=\"aui-3-5-1-4_55779\" style=\"margin: 2px 0px; padding: 0px; color: rgb(68, 68, 68); font-family: Arial; line-height: 16.003px;\"><strong id=\"aui-3-5-1-4_55867\">New features:</strong></p>\n\n<ul id=\"aui-3-5-1-4_55782\" style=\"margin: 0px; padding-right: 30px; padding-left: 30px; list-style-position: initial; list-style-image: initial; color: rgb(68, 68, 68); font-family: Arial; line-height: 16.003px;\">\n\t<li id=\"aui-3-5-1-4_55781\" style=\"margin: 0px 0px 2px; padding: 0px;\">[Links]&nbsp;<span class=\"js-issue-title\" style=\"box-sizing: border-box;\">Open ticket in the dashboard view</span> [<a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/97\" style=\"text-decoration: initial; color: darkblue;\">#9</a><a href=\"https://github.com/Sitecore/OnTime-Accelerators/issues/99\">9</a>]</li>\n</ul>\n"
+  },
+  {
+    "ver": "4.0.0",
+    "date": "18.04.2017",
+    "desc": "<p><strong>Highlights:</strong><br />\nThis is a major release that makes OnTime Accelerators compatible with a new OnTime API.<b> </b>As a result of numerous breaking changes in the OnTime API, most of the features were disabled.</p>\n\n<p>The following features are available in this release:</p>\n\n<ol>\n\t<li>[Edit context] Attach during edit</li>\n\t<li>[Edit context] Notify &amp; Save &amp; Close</li>\n\t<li>[Edit context] Prevent accidental exit&nbsp;</li>\n\t<li>[Mixed context] Customer Info link</li>\n\t<li>[Mixed context] Product version highlight</li>\n\t<li>[Mixed context] Support Priority highlight</li>\n</ol>\n"
   }
 ]
