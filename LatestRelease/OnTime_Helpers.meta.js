@@ -13,5 +13,5 @@
 // @grant       GM_setClipboard
 // @grant       GM_getResourceURL
 // @resource    waitAnimation https://raw.githubusercontent.com/Sitecore/OnTime-Accelerators-Download/master/Resources/WaitAnimation.gif
-// @version     4.0.2
+// @version     4.1.0
 // ==/UserScript==
