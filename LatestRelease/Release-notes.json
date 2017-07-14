@@ -118,5 +118,10 @@
     "ver": "4.1.0",
     "date": "19.05.2017",
     "desc": "<p><strong>New and migrated features:</strong></p>\n\n<p>1) The &quot;Pass To L2&quot; button has been added.</p>\n\n<p>2) &nbsp;The &quot;Tickets highlight&quot; feature was added. There are three conditions right now:</p>\n\n<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;a) Highlight escalated tickets.&nbsp;<br />\n&nbsp; &nbsp; &nbsp; &nbsp; b) Highlight tickets where the customer response was provided more than X (by default, 14) days ago.&nbsp;<br />\n&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;c) Custom highlight - provide a field name and the field value.</p>\n\n<p>3) &nbsp;The &#39;Open ticket view&#39; button was added to the edit mode.</p>\n\n<p><strong>Bugs fixed:</strong></p>\n\n<p>Fixed &quot;Product Version Highlight&quot; feature - now it does not break the ticket layout. Also,&nbsp;it is now rendered in the edit mode as well.</p>\n"
+  },
+  {
+    "ver": "4.2.0",
+    "date": "13.07.2017",
+    "desc": "<p><strong>Short overview:</strong><br />\nAll requested features, bugs and related items are now public (for Sitecore Support)&nbsp;For more details, refer to the appropriate milestone on GitHub.</p>\n\n<p><strong>New features:</strong></p>\n\n<ol>\n\t<li>Remove excess info from portal mode&nbsp;</li>\n\t<li>&quot;Product guidelines&quot; link</li>\n\t<li>&quot;Generate Cloud Email&quot; button</li>\n\t<li>&quot;Assign to me&quot; functionality</li>\n</ol>\n\n<p><strong>Fixed bugs:</strong></p>\n\n<ol>\n\t<li>&quot;Notify &amp; save &amp; close&quot; button style is incorrect</li>\n\t<li>&quot;Tickets highlight&quot; does not work for escalated tickets</li>\n\t<li>Product Version Highlight stopped working</li>\n</ol>\n\n<p><strong>Enhancements:</strong></p>\n\n<ol>\n\t<li>The [Assign to me] button do not assign the opened ticket&nbsp;</li>\n\t<li>&quot;To L2&quot; button asks for work logs</li>\n</ol>\n"
   }
 ]
