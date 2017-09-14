@@ -128,5 +128,10 @@
     "ver": "4.3.0",
     "date": "06.09.2017",
     "desc": "<p><strong>Migrated features:</strong></p>\n\n<p>1) Attachments Manager.</p>\n\n<p>2) Extended stamp button.</p>\n\n<p><strong>New features:</strong></p>\n\n<p>1) Improved Related TFS Items link.</p>\n\n<p>2) Worklog dialog timezone clarification.</p>\n\n<p>3) Style fixes in OnTIme.</p>\n\n<p><strong>Fixed bugs:</strong></p>\n\n<p>1) Assign to me button rendered multiple times.</p>\n\n<p>2) Renamed fields in OnTime.</p>\n\n<p>3) Generate Cloud Email link is not encoded.</p>\n\n<p><strong>More info</strong> can be found here:</p>\n\n<p>https://github.com/SitecoreSupport/OnTime-Accelerators/milestone/3?closed=1</p>\n"
+  },
+  {
+    "ver": "4.3.1",
+    "date": "14.09.2017",
+    "desc": "<p><strong>Fixes:</strong></p>\n1) The extended stamp button now allows you to specify the greeting and add a line between stamp and greeting.<br />\n2) Fixed the Prevent Accidental Exit feature - the might have been closed anyway."
   }
 ]
