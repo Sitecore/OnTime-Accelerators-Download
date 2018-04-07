@@ -143,5 +143,10 @@
     "ver": "4.4.1",
     "date": "01.03.2018",
     "desc": "<p><strong>New feature:</strong></p><p>- &quot;Dashboard link to the current ticket&quot;</p><p>Provides an easy way to copy a URL to a dashboard ticket (required to add a relation).</p><p><strong>Bugs fixed:</strong></p><p>- Create Cloud ticket feature.</p><p>The feature stopped worked after unannounced change in the Cloud team projects.This has been fixed.</p>"
+  },
+  {
+    "ver": "4.4.2",
+    "date": "07.04.2018",
+    "desc": "<p>A hotfix 4.4.2 has been released.</p>\n\n<p><strong>Extended features:</strong></p>\n\n<p>- &quot;Worklogs dialog improvements&quot; now allows to use current date instead of current UTC date. The feature might be useful to ensure that the worklogs are tracked for a correct date.&nbsp;</p>\n\n<p>- &quot;Dashboard link to the current ticket&quot; was moved from View to Mixed features. It now allows adding a button to the Edit mode as well.</p>\n\n<p>- &quot;Notify &amp; Save &amp; Close&quot; button is not shown if the customer contact is not set (a Cloud team request - most of the Cloud tickets do not have the value set).</p>\n\n<p><strong>Bugs fixed:</strong></p>\n\n<p>- Product version highlight was not working with versions 7.5+. It is now fixed. Thanks to AMCH for reporting the issue.</p>\n\n\n"
   }
 ]
