@@ -148,5 +148,10 @@
     "ver": "4.4.2",
     "date": "07.04.2018",
     "desc": "<p>A hotfix 4.4.2 has been released.</p>\n\n<p><strong>Extended features:</strong></p>\n\n<p>- &quot;Worklogs dialog improvements&quot; now allows to use current date instead of current UTC date. The feature might be useful to ensure that the worklogs are tracked for a correct date.&nbsp;</p>\n\n<p>- &quot;Dashboard link to the current ticket&quot; was moved from View to Mixed features. It now allows adding a button to the Edit mode as well.</p>\n\n<p>- &quot;Notify &amp; Save &amp; Close&quot; button is not shown if the customer contact is not set (a Cloud team request - most of the Cloud tickets do not have the value set).</p>\n\n<p><strong>Bugs fixed:</strong></p>\n\n<p>- Product version highlight was not working with versions 7.5+. It is now fixed. Thanks to AMCH for reporting the issue.</p>\n\n\n"
+  },
+  {
+    "ver": "4.5.0",
+    "date": "17.06.2018",
+    "desc": "<p><strong>New feature:</strong></p>\n\n<p>Added the &quot;Ticket data transfer&quot; feature.</p>\n\n<p>For now, it adds a &quot;Ticket for Customer&quot; button in the View mode,&nbsp;which makes creating tickets on customer behalf slightly easier.</p>\n\n<p>A button click copies fields from a ticket and opens a helpdesk portal.</p>\n\n<p>When you click &quot;Add&quot; in helpdesk portal, the ticket will be populated with the system fields (like browser version and OS info) based on the original ticket.</p>\n\n<p><strong>Improvements:</strong></p>\n\n<p>Added confirmation dialog for Create cloud ticket button (OnTime team request)</p>\n\n<p><strong>Fixes:</strong></p>\n\n<p>1) Various features - fixed issues introduced by Okta on dashboard.</p>\n\n<p>2) Remove excess info - fixed issues introduced by layout changes in OnTime.</p>\n\n<p>3) Out-of-scope emails updated.</p>\n\n<p>4) Out-of-scope now can handle special symbols in license names.</p>\n\n<p>Details are here:</p>\n\n<p>https://github.com/SitecoreSupport/OnTime-Accelerators/milestone/</p>\n"
   }
 ]
