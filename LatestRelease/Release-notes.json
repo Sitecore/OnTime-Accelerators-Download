@@ -158,5 +158,10 @@
     "ver": "4.5.1",
     "date": "26.06.2018",
     "desc": "<p><strong>Fixes</strong>:<br />\n1) When <strong>all view features</strong> are enabled, the number of buttons may become too high and UI issues may appear.</p>\n\n<p>As a temporary fix, the length of the button titles was decreased, so the size of the buttons is now smaller. Additionally, the title of buttons can now be configured in the configuration settings.&nbsp;</p>\n\n<p>2) <strong>Out of scope button</strong> reworked.<br />\nPreviously, it loaded data when the ticket was opened.&nbsp; Now, it will load the data only on the button click.</p>\n\n<p>3) The<strong> customer notes feature</strong> had two options (disabled by default) that were breaking other options:<br />\n&quot;Make link from value itself&quot; and &quot;Use text for standalone link&quot;<br />\nIn case any of this options was enabled, the highlight and alert features were not working. The feautres are compatible now.</p>\n\n<p>4) <strong>Worklog dialog improvements</strong> feature:<br />\nThe (UTC) label does not disappear in case the feature is enabled, but the first option is disabled. It has been fixed.</p>\n\n"
+  },
+  {
+    "ver": "4.5.2",
+    "date": "28.08.2018",
+    "desc": "<p><strong>New features</strong>:<br />\n1) Ticket data validation - a new feature to check the ticket content.<br />\nFor now, it allows to check if the scope is present in the ticket (view mode).<br />\nIf there is no scope, a warning will be displayed on the Description field.</p>\n\n<p>2) Description field size is now configurable in a view mode, because the default 500 px can be frustrating sometimes.<br />\nAdditionally, you can remove scroll from the description field - it will scale depending on the description size. It allows to avoid the double scroll bar issue.<br />\nMoreover, you can use a button to extend/collapse the field.</p>\n\n<p><strong>Fixes</strong>:<br />\n1) The Create Customer Ticket should now work more consistently.</p>\n"
   }
 ]
