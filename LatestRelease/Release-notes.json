@@ -163,5 +163,10 @@
     "ver": "4.5.2",
     "date": "28.08.2018",
     "desc": "<p><strong>New features</strong>:<br />\n1) Ticket data validation - a new feature to check the ticket content.<br />\nFor now, it allows to check if the scope is present in the ticket (view mode).<br />\nIf there is no scope, a warning will be displayed on the Description field.</p>\n\n<p>2) Description field size is now configurable in a view mode, because the default 500 px can be frustrating sometimes.<br />\nAdditionally, you can remove scroll from the description field - it will scale depending on the description size. It allows to avoid the double scroll bar issue.<br />\nMoreover, you can use a button to extend/collapse the field.</p>\n\n<p><strong>Fixes</strong>:<br />\n1) The Create Customer Ticket should now work more consistently.</p>\n"
+  },
+  {
+    "ver": "4.5.3",
+    "date": "30.09.2018",
+    "desc": "<p><strong>Request Hotfix</strong> feature added</p>\n\n<p>Feature allows to create a hotfix request TFS item based on the information from a current ticket</p>\n"
   }
 ]
