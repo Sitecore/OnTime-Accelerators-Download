@@ -168,5 +168,10 @@
     "ver": "4.5.3",
     "date": "30.09.2018",
     "desc": "<p><strong>Request Hotfix</strong> feature added</p>\n\n<p>Feature allows to create a hotfix request TFS item based on the information from a current ticket</p>\n"
+  },
+  {
+    "ver": "4.5.4",
+    "date": "08.10.2018",
+    "desc": "Minor fix in the Request Hotfix feature"
   }
 ]
