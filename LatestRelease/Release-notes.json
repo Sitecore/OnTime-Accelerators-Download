@@ -173,5 +173,10 @@
     "ver": "4.5.4",
     "date": "08.10.2018",
     "desc": "Minor fix in the Request Hotfix feature"
+  },
+  {
+    "ver": "4.5.5",
+    "date": "04.11.2018",
+    "desc": "<p>1) Box link added to the Customer Info Link feature - can be disabled via setting. Renders links to Box for customer contact and licensee (edit and view modes).<br />\n2) Various fixes and improvements for Request Hotfix feature<br />\n3) Out of scope emails list updated<br />\n4) Cloud tickets are now created in the Waiting for Cloud Ops state</p>\n<p>&nbsp;</p>\n"
   }
 ]
