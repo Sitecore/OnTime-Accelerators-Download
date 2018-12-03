@@ -178,5 +178,10 @@
     "ver": "4.5.5",
     "date": "04.11.2018",
     "desc": "<p>1) Box link added to the Customer Info Link feature - can be disabled via setting. Renders links to Box for customer contact and licensee (edit and view modes).<br />\n2) Various fixes and improvements for Request Hotfix feature<br />\n3) Out of scope emails list updated<br />\n4) Cloud tickets are now created in the Waiting for Cloud Ops state</p>\n<p>&nbsp;</p>\n"
+  },
+  {
+    "ver": "4.6.0",
+    "date": "03.12.2018",
+    "desc": "<p>1) <strong>New/Migrated feature</strong> - Ask for worklogs. OnTIme will ask&nbsp;for worklogs even if the workflow state has not changed. Note: disabled by default.</p><p>2) Multiple improvements in the Request Hotfix feature (details in Github)</p><p>3) Small fix in the Out of Scope feature (customer name is now parsed correctly)</p>"
   }
 ]
