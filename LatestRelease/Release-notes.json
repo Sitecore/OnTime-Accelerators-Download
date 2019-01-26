@@ -183,5 +183,10 @@
     "ver": "4.6.0",
     "date": "03.12.2018",
     "desc": "<p>1) <strong>New/Migrated feature</strong> - Ask for worklogs. OnTIme will ask&nbsp;for worklogs even if the workflow state has not changed. Note: disabled by default.</p><p>2) Multiple improvements in the Request Hotfix feature (details in Github)</p><p>3) Small fix in the Out of Scope feature (customer name is now parsed correctly)</p>"
+  },
+  {
+    "ver": "4.6.1",
+    "date": "26.01.2019",
+    "desc": "Several content changes in Out of scope email template"
   }
 ]
