@@ -188,5 +188,10 @@
     "ver": "4.6.1",
     "date": "26.01.2019",
     "desc": "Several content changes in Out of scope email template"
+  },
+  {
+    "ver": "4.6.2",
+    "date": "18.03.2019",
+    "desc": "Fixes in Create Hotfix request"
   }
 ]
