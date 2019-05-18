@@ -193,5 +193,10 @@
     "ver": "4.6.2",
     "date": "18.03.2019",
     "desc": "Fixes in Create Hotfix request"
+  },
+  {
+    "ver": "4.6.3",
+    "date": "18.05.2019",
+    "desc": "Minor fixes and improvements"
   }
 ]
